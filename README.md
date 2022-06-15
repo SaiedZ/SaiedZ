@@ -29,8 +29,8 @@
 <h2></h2>
 <h2 align="center">Some stats:</h2>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiedz&show_icons=true&locale=en&layout=compact" alt="saiedz" width="400" height="250"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiedz&show_icons=true&locale=en" alt="saiedz" width="400" height="250"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiedz&show_icons=true&locale=en&layout=compact&hide_border=True&theme=algolia&border_radius=20" alt="saiedz" width="400" height="250"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiedz&show_icons=true&locale=en&hide_border=True&theme=algolia&border_radius=20" alt="saiedz" width="400" height="250"/></p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaiedZ)
 
