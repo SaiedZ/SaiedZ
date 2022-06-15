@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/90851774/173915465-3fe23317-f8be-412b-a649-201ed62eb5a8.png" alt="Hello World, I'm Saied 👋" width="800"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/90851774/173915465-3fe23317-f8be-412b-a649-201ed62eb5a8.png" alt="Hello World, I'm Saied 👋" width="700"/></p>
 
 <!--
 **SaiedZ/SaiedZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
