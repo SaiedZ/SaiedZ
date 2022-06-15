@@ -4,10 +4,12 @@
 <h3 align="center">I ❤️ coding and discovering new horizons !</h3>
 <hr>
 </br>
+
 - 🔭 I’m currently working on this page 😋 and my portfolio website and dicovering the FastAPI.
 - 🌱 I am currently at the end of a backend developer journey with [Openclassrooms](https://openclassrooms.com/).
 - 👯 I’m looking to collaborate on Python projects, Django, DRF...
 - 📫 How to reach me: ⚙️
+
 </br>
 <h2></h2>
 <h2 align="center">Languages and Tools:</h2>
