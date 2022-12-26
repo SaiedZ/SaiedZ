@@ -5,10 +5,9 @@
 <hr>
 </br>
 
-- 🔭 I’m currently working on this page 😋 and my portfolio website and dicovering the FastAPI.
-- 🌱 I am currently at the end of a backend developer journey with [Openclassrooms](https://openclassrooms.com/).
-- 👯 I’m looking to collaborate on Python projects, Django, DRF...
-- 📫 How to reach me: ⚙️
+- 🔭 I’m currently loooking to work as a python developper
+- 👯 I’m also looking to collaborate on Python projects, Django, DRF...
+- 📫 How to reach me: [saied-zouaoui.com](https://saied-zouaoui.com) or on linkedin
 
 </br>
 <details open>
