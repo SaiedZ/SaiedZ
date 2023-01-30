@@ -5,7 +5,7 @@
 <hr>
 </br>
 
-- 🔭 I’m currently loooking to work as a python developper
+- 🔭 I’m currently working as a Python / Django developper
 - 👯 I’m also looking to collaborate on Python projects, Django, DRF...
 - 📫 How to reach me: [saied-zouaoui.com](https://saied-zouaoui.com) or on linkedin
 
